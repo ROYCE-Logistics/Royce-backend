@@ -1,0 +1,3 @@
+@ECHO OFF
+set MAVEN_CMD=mvn
+%MAVEN_CMD% %*

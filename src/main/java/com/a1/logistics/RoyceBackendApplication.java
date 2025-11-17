@@ -4,9 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class A1LogisticsBackendApplication {
+public class RoyceBackendApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(A1LogisticsBackendApplication.class, args);
+        SpringApplication.run(RoyceBackendApplication.class, args);
+        System.out.println("Royce Backend Application Started Successfully");
     }
 }

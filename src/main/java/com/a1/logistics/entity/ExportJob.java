@@ -29,4 +29,6 @@ public class ExportJob {
     private Instant finishedAt;
 
     private String downloadLink;
+
+    private String errorMessage;
 }

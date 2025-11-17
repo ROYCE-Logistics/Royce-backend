@@ -1,0 +1,1 @@
+-- Initial Flyway migration placeholder. Actual schema managed via JPA.
